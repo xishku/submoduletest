@@ -2,3 +2,6 @@
 	path = thirdparty/opensource/libpcap/libpcap
 	url = git@github.com:the-tcpdump-group/libpcap.git
 	branch = libpcap-1.9
+[submodule "ppp"]
+	path = thirdparty/opensource/ppp/ppp
+	url = git@github.com:ppp-project/ppp.git
